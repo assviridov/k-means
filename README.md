@@ -3,8 +3,8 @@ https://github.com/GPUOpen-LibrariesAndSDKs/OCL-SDK/releases/download/1.0/OCL_SD
 
 VS project settings ( OpenCL default path "C:\Program Files (x86)\OCL_SDK_Light"):
  Visual Studio Project
- "Project Properties -> C/C++ -> General -> Additional Include Directories" = C:\Program Files (x86)\OCL_SDK_Light\include; 
- "Project Properties -> Linker -> All Options -> Additional Dependencies" = OpenCL.lib; 
+ "Project Properties -> C/C++ -> General -> Additional Include Directories" = C:\Program Files (x86)\OCL_SDK_Light\include;
+ "Project Properties -> Linker -> All Options -> Additional Dependencies" = OpenCL.lib;
  "Project Properties -> Linker -> All Options -> Additional Library Directories" =  C:\Program Files (x86)\OCL_SDK_Light\lib\x86_64;
 
 Code Blocks project settings ( OpenCL default path "C:\Program Files (x86)\OCL_SDK_Light"):
